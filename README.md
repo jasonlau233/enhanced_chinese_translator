@@ -374,9 +374,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📖 [Documentation](https://github.com/enhanced-translator/enhanced-chinese-translator/wiki)
-- 🐛 [Issue Tracker](https://github.com/enhanced-translator/enhanced-chinese-translator/issues)
-- 💬 [Discussions](https://github.com/enhanced-translator/enhanced-chinese-translator/discussions)
+- 📖 [Documentation](https://github.com/jasonlau233/enhanced_chinese_translator/wiki)
+- 🐛 [Issue Tracker](https://github.com/jasonlau233/enhanced_chinese_translator/issues)
+- 💬 [Discussions](https://github.com/jasonlau233/enhanced_chinese_translator/discussions)
 
 ## Acknowledgments
 
