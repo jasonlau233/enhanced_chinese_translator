@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "enhanced-chinese-translator"
-version = "1.0.1"
+version = "1.0.0"
 description = "High-performance Chinese to English translation tool with multi-threading and batch processing"
 readme = "README.md"
 license = {text = "MIT"}
@@ -33,10 +33,10 @@ dependencies = [
 keywords = ["chinese", "translation", "english", "batch", "multi-threading", "concurrent", "api", "google", "baidu"]
 
 [project.urls]
-Homepage = "https://github.com/jasonlau233/enhanced_chinese_translator"
-"Bug Reports" = "https://github.com/jasonlau233/enhanced_chinese_translator/issues"
-"Source" = "https://github.com/jasonlau233/enhanced_chinese_translator"
-"Documentation" = "https://github.com/jasonlau233/enhanced_chinese_translator/wiki"
+Homepage = "https://github.com/enhanced-translator/enhanced-chinese-translator"
+"Bug Reports" = "https://github.com/enhanced-translator/enhanced-chinese-translator/issues"
+"Source" = "https://github.com/enhanced-translator/enhanced-chinese-translator"
+"Documentation" = "https://github.com/enhanced-translator/enhanced-chinese-translator/wiki"
 
 [project.scripts]
 enhanced-chinese-translator = "enhanced_chinese_translator.translator:main"
