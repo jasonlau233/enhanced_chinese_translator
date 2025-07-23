@@ -1,9 +1,11 @@
+.gitattributes
 LICENSE
 MANIFEST.in
 README.md
 pyproject.toml
 requirements.txt
 setup.py
+.claude/settings.local.json
 enhanced_chinese_translator/__init__.py
 enhanced_chinese_translator/translator.py
 enhanced_chinese_translator.egg-info/PKG-INFO

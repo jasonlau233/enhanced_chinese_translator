@@ -1,15 +1,15 @@
 Metadata-Version: 2.4
 Name: enhanced-chinese-translator
-Version: 1.0.0
+Version: 1.0.1
 Summary: High-performance Chinese to English translation tool with multi-threading and batch processing
-Home-page: https://github.com/enhanced-translator/enhanced-chinese-translator
+Home-page: https://github.com/jasonlau233/enhanced_chinese_translator
 Author: Enhanced Chinese Translator Team
 Author-email: Enhanced Chinese Translator Team <support@enhanced-translator.com>
 License: MIT
-Project-URL: Homepage, https://github.com/enhanced-translator/enhanced-chinese-translator
-Project-URL: Bug Reports, https://github.com/enhanced-translator/enhanced-chinese-translator/issues
-Project-URL: Source, https://github.com/enhanced-translator/enhanced-chinese-translator
-Project-URL: Documentation, https://github.com/enhanced-translator/enhanced-chinese-translator/wiki
+Project-URL: Homepage, https://github.com/jasonlau233/enhanced_chinese_translator
+Project-URL: Bug Reports, https://github.com/jasonlau233/enhanced_chinese_translator/issues
+Project-URL: Source, https://github.com/jasonlau233/enhanced_chinese_translator
+Project-URL: Documentation, https://github.com/jasonlau233/enhanced_chinese_translator/wiki
 Keywords: chinese,translation,english,batch,multi-threading,concurrent,api,google,baidu
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
@@ -409,9 +409,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📖 [Documentation](https://github.com/enhanced-translator/enhanced-chinese-translator/wiki)
-- 🐛 [Issue Tracker](https://github.com/enhanced-translator/enhanced-chinese-translator/issues)
-- 💬 [Discussions](https://github.com/enhanced-translator/enhanced-chinese-translator/discussions)
+- 📖 [Documentation](https://github.com/jasonlau233/enhanced_chinese_translator/wiki)
+- 🐛 [Issue Tracker](https://github.com/jasonlau233/enhanced_chinese_translator/issues)
+- 💬 [Discussions](https://github.com/jasonlau233/enhanced_chinese_translator/discussions)
 
 ## Acknowledgments
 

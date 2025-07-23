@@ -16,13 +16,13 @@ def read_requirements():
 
 setup(
     name="enhanced-chinese-translator",
-    version="1.0.0",
+    version="1.0.1",
     author="Enhanced Chinese Translator Team",
     author_email="support@enhanced-translator.com",
     description="High-performance Chinese to English translation tool with multi-threading and batch processing",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/enhanced-translator/enhanced-chinese-translator",
+    url="https://github.com/jasonlau233/enhanced_chinese_translator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 5 - Production/Stable",
@@ -49,9 +49,9 @@ setup(
     },
     keywords="chinese translation english batch multi-threading concurrent api google baidu",
     project_urls={
-        "Bug Reports": "https://github.com/enhanced-translator/enhanced-chinese-translator/issues",
-        "Source": "https://github.com/enhanced-translator/enhanced-chinese-translator",
-        "Documentation": "https://github.com/enhanced-translator/enhanced-chinese-translator/wiki",
+        "Bug Reports": "https://github.com/jasonlau233/enhanced_chinese_translator/issues",
+        "Source": "https://github.com/jasonlau233/enhanced_chinese_translator",
+        "Documentation": "https://github.com/jasonlau233/enhanced_chinese_translator/wiki",
     },
     include_package_data=True,
     zip_safe=False,
