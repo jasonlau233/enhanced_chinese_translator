@@ -4,7 +4,40 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/enhanced-chinese-translator.svg)](https://pypi.org/project/enhanced-chinese-translator/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-🚀 A high-performance Chinese to English translation tool with multi-threading, batch processing, and advanced optimizations for code files, documentation, and text content.
+🚀 **专业的代码中文转英文翻译工具** - 专门为开发者设计的高性能翻译工具，支持项目代码内的注释、print语句、字符串等中文内容的批量翻译，让您的代码国际化更简单！
+
+## 🎯 主要用途
+
+✨ **代码注释翻译**: 一键翻译 Python、JavaScript、Dart、Java 等各种编程语言的中文注释  
+📝 **字符串内容翻译**: 智能识别并翻译代码中的中文字符串和print语句  
+🔄 **批量处理**: 支持整个项目目录的批量翻译，大幅提升开发效率  
+🎨 **格式保持**: 完美保持代码原有格式、缩进和结构不变  
+⚡ **多线程处理**: 高性能并发翻译，快速处理大型项目  
+
+## 💡 适用场景
+
+- 🌍 **代码国际化**: 将中文代码项目翻译为英文，便于国际协作
+- 📚 **开源项目**: 让中文开源项目更容易被国际开发者理解
+- 🏢 **企业项目**: 公司代码库的多语言支持和规范化
+- 📖 **文档翻译**: 代码文档和注释的专业翻译
+
+## ✨ 核心特性
+
+🚀 **智能识别**: 自动识别代码中的中文注释、字符串、print语句等内容  
+🎯 **精准翻译**: 基于编程上下文的智能翻译，保持技术术语准确性  
+💾 **智能缓存**: 线程安全的翻译缓存，避免重复API调用，节省成本  
+⚡ **批量处理**: 多文件并发处理，支持自定义文件类型过滤  
+🛡️ **安全备份**: 翻译前自动创建备份，确保原始代码安全  
+📊 **性能监控**: 详细的处理统计和进度跟踪  
+
+## 🔧 支持的编程语言
+
+- **前端开发**: JavaScript (.js), TypeScript (.ts), Vue (.vue), React (.jsx, .tsx)
+- **移动开发**: Dart (.dart), Swift (.swift), Kotlin (.kt)  
+- **后端开发**: Python (.py), Java (.java), C++ (.cpp), C# (.cs)
+- **其他语言**: PHP (.php), Go (.go), Rust (.rs), Ruby (.rb)
+- **配置文件**: JSON (.json), YAML (.yaml), XML (.xml)
+- **文档文件**: Markdown (.md), 文本文件 (.txt)
 
 ## Features
 
